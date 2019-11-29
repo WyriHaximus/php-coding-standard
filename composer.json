@@ -1,0 +1,19 @@
+{
+    "name": "wyrihaximus/coding-standard",
+    "type": "phpcodesniffer-standard",
+    "description": "WyriHaximus Coding Standard",
+    "license": "MIT",
+    "require": {
+        "php": "^7.4",
+        "dealerdirect/phpcodesniffer-composer-installer": "^0.5.0",
+        "doctrine/coding-standard": "^6.0",
+        "slevomat/coding-standard": "^5.0.4",
+        "squizlabs/php_codesniffer": "^3.4.2"
+    },
+    "config": {
+        "platform": {
+            "php": "7.4"
+        },
+        "sort-packages": true
+    }
+}
