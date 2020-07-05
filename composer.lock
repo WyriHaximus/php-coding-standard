@@ -74,22 +74,22 @@
         },
         {
             "name": "doctrine/coding-standard",
-            "version": "8.0.0",
+            "version": "8.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/coding-standard.git",
-                "reference": "742200e29fb8ffd58ba9abec8a9ec33db0884677"
+                "reference": "637003febec655f1b27f4301b44bf2264be57434"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/coding-standard/zipball/742200e29fb8ffd58ba9abec8a9ec33db0884677",
-                "reference": "742200e29fb8ffd58ba9abec8a9ec33db0884677",
+                "url": "https://api.github.com/repos/doctrine/coding-standard/zipball/637003febec655f1b27f4301b44bf2264be57434",
+                "reference": "637003febec655f1b27f4301b44bf2264be57434",
                 "shasum": ""
             },
             "require": {
-                "dealerdirect/phpcodesniffer-composer-installer": "^0.6.2",
+                "dealerdirect/phpcodesniffer-composer-installer": "^0.6.2 || ^0.7",
                 "php": "^7.2 || ^8.0",
-                "slevomat/coding-standard": "^6.3.8",
+                "slevomat/coding-standard": "^6.3.9",
                 "squizlabs/php_codesniffer": "^3.5.5"
             },
             "type": "phpcodesniffer-standard",
@@ -126,7 +126,7 @@
                 "standard",
                 "style"
             ],
-            "time": "2020-06-02T17:58:43+00:00"
+            "time": "2020-07-05T20:35:22+00:00"
         },
         {
             "name": "phpstan/phpdoc-parser",
