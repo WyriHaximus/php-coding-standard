@@ -4,7 +4,7 @@
     "description": "WyriHaximus Coding Standard",
     "license": "MIT",
     "require": {
-        "php": "^8 || ^7.4",
+        "php": "^8",
         "dealerdirect/phpcodesniffer-composer-installer": "^0.7.1",
         "doctrine/coding-standard": "^9.0.0",
         "slevomat/coding-standard": "^7.0.14",
@@ -12,8 +12,11 @@
     },
     "config": {
         "platform": {
-            "php": "7.4.7"
+            "php": "8.0.12"
         },
-        "sort-packages": true
+        "sort-packages": true,
+        "allow-plugins": {
+            "dealerdirect/phpcodesniffer-composer-installer": true
+        }
     }
 }
