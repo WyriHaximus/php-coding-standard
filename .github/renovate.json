@@ -1,0 +1,13 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "packageRules": [{
+    "managers": ["composer"],
+    "rangeStrategy": "widen"
+  }],
+  "extends": [
+    "config:base",
+    ":widenPeerDependencies",
+    ":rebaseStalePrs",
+    "group:phpstan"
+  ]
+}
