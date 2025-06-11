@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4044eae5561ecdbf7c9c95fef2092b5f",
+    "content-hash": "132cd52176185925dc9841b1b34272e8",
     "packages": [
         {
             "name": "dealerdirect/phpcodesniffer-composer-installer",
@@ -189,16 +189,16 @@
         },
         {
             "name": "slevomat/coding-standard",
-            "version": "8.19.0",
+            "version": "8.19.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/slevomat/coding-standard.git",
-                "reference": "9cc50509c3912d465a9f6898069f64cf2abf4e8a"
+                "reference": "458d665acd49009efebd7e0cb385d71ae9ac3220"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/slevomat/coding-standard/zipball/9cc50509c3912d465a9f6898069f64cf2abf4e8a",
-                "reference": "9cc50509c3912d465a9f6898069f64cf2abf4e8a",
+                "url": "https://api.github.com/repos/slevomat/coding-standard/zipball/458d665acd49009efebd7e0cb385d71ae9ac3220",
+                "reference": "458d665acd49009efebd7e0cb385d71ae9ac3220",
                 "shasum": ""
             },
             "require": {
@@ -238,7 +238,7 @@
             ],
             "support": {
                 "issues": "https://github.com/slevomat/coding-standard/issues",
-                "source": "https://github.com/slevomat/coding-standard/tree/8.19.0"
+                "source": "https://github.com/slevomat/coding-standard/tree/8.19.1"
             },
             "funding": [
                 {
@@ -250,7 +250,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-06-07T15:02:20+00:00"
+            "time": "2025-06-09T17:53:57+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
