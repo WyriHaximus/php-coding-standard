@@ -12,7 +12,7 @@
     },
     "config": {
         "platform": {
-            "php": "8.3.13"
+            "php": "8.4.13"
         },
         "sort-packages": true,
         "allow-plugins": {
