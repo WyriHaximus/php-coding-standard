@@ -7,7 +7,7 @@
         "php": "^8.4",
         "dealerdirect/phpcodesniffer-composer-installer": "^1.2.0",
         "doctrine/coding-standard": "^13.0.1",
-        "slevomat/coding-standard": "^8.22.1",
+        "slevomat/coding-standard": "^8.26.0",
         "squizlabs/php_codesniffer": "^4.0.1"
     },
     "config": {
