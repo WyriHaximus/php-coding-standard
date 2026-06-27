@@ -5,7 +5,7 @@
     "license": "MIT",
     "require": {
         "php": "^8.4",
-        "dealerdirect/phpcodesniffer-composer-installer": "^1.2.0",
+        "dealerdirect/phpcodesniffer-composer-installer": "^1.2.1",
         "doctrine/coding-standard": "^14.0.0",
         "slevomat/coding-standard": "^8.28.1",
         "squizlabs/php_codesniffer": "^4.0.1"
