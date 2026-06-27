@@ -16,7 +16,21 @@
         },
         "sort-packages": true,
         "allow-plugins": {
-            "dealerdirect/phpcodesniffer-composer-installer": true
+            "dealerdirect/phpcodesniffer-composer-installer": true,
+            "wyrihaximus/makefiles": true
         }
+    },
+    "extra": {
+        "wyrihaximus": {
+            "supported-features": {
+                "code-style": false,
+                "composer-dependency-checkers": false,
+                "static-analysis": false,
+                "unit-tests": false
+            }
+        }
+    },
+    "require-dev": {
+        "wyrihaximus/makefiles": "^0.12.1"
     }
 }
