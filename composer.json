@@ -31,6 +31,6 @@
         }
     },
     "require-dev": {
-        "wyrihaximus/makefiles": "^0.14.6"
+        "wyrihaximus/makefiles": "^0.14.7"
     }
 }
