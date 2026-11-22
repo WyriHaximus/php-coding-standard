@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "81a142458727c9ebe1b2498fbb95a630",
+    "content-hash": "a49195b1138e99db36d1a0e73e682d0f",
     "packages": [
         {
             "name": "dealerdirect/phpcodesniffer-composer-installer",
@@ -360,16 +360,16 @@
     "packages-dev": [
         {
             "name": "wyrihaximus/makefiles",
-            "version": "0.15.5",
+            "version": "0.15.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WyriHaximus/Makefiles.git",
-                "reference": "e8ae025777e6e95b0503d8cd060787a5c123b5c0"
+                "reference": "83550d0b6e50cb9fcfad435675c1953c5069117c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/WyriHaximus/Makefiles/zipball/e8ae025777e6e95b0503d8cd060787a5c123b5c0",
-                "reference": "e8ae025777e6e95b0503d8cd060787a5c123b5c0",
+                "url": "https://api.github.com/repos/WyriHaximus/Makefiles/zipball/83550d0b6e50cb9fcfad435675c1953c5069117c",
+                "reference": "83550d0b6e50cb9fcfad435675c1953c5069117c",
                 "shasum": ""
             },
             "require": {
@@ -410,7 +410,7 @@
             "description": "🧱 Makefile building blocks",
             "support": {
                 "issues": "https://github.com/WyriHaximus/Makefiles/issues",
-                "source": "https://github.com/WyriHaximus/Makefiles/tree/0.15.5"
+                "source": "https://github.com/WyriHaximus/Makefiles/tree/0.15.9"
             },
             "funding": [
                 {
@@ -418,7 +418,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-11-02T19:25:48+00:00"
+            "time": "2026-11-22T21:27:16+00:00",
+            "published-time": "2026-11-22T21:27:54+00:00"
         }
     ],
     "aliases": [],
